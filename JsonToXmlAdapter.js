@@ -6,7 +6,7 @@ class JsonToXmlAdapter {
     read(){
         const data = this.reader.read();
         // TODO complex logic to convert to xml
-        return "<ml>";
+        return "<xml>";
     }
 }
 
