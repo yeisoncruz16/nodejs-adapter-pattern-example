@@ -1,2 +1,1 @@
-# nodejs-adapter-pattern-example
-Very simple nodejs adapter pattern example
+# Simple NodeJs adapter pattern example
